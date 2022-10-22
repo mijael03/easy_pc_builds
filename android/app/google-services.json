@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "392678315392",
+    "project_id": "easypcbuilds",
+    "storage_bucket": "easypcbuilds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392678315392:android:8e03a0ce2240ed235a9d65",
+        "android_client_info": {
+          "package_name": "com.example.easypcbuilds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392678315392-pg6vngivkkp0h7opqnpghcjhohovjjhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESNAnNueVgNeKXkF5dqr8qyQEd_XjZlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392678315392-pg6vngivkkp0h7opqnpghcjhohovjjhv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392678315392-8c6pg8hpuvad7bkg2nrppja8qp10vb4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.turismoapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392678315392:android:15e37cb72c8ebf005a9d65",
+        "android_client_info": {
+          "package_name": "com.example.turismoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392678315392-pg6vngivkkp0h7opqnpghcjhohovjjhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCESNAnNueVgNeKXkF5dqr8qyQEd_XjZlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392678315392-pg6vngivkkp0h7opqnpghcjhohovjjhv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392678315392-8c6pg8hpuvad7bkg2nrppja8qp10vb4m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.turismoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
